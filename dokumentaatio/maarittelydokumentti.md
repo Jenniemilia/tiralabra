@@ -12,7 +12,7 @@ Python
 
 ## Harjoitustyö
 
-Risti-nolla peli vähintään 5x5 pelialustalla. Tarkoitus on kehittää tekoäly, joka pystyy tehokkaasti suunnittelemaan tulevat siirtonsa ja siten pelaamaan ihmistä vastaan.
+Risti-nolla peli vähintään 20x20 pelialustalla. Tarkoitus on kehittää tekoäly, joka pystyy tehokkaasti suunnittelemaan tulevat siirtonsa ja siten pelaamaan ihmistä vastaan.
 
 ## Algoritmit ja aikavaatimukset
 
