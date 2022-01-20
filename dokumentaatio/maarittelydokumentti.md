@@ -28,5 +28,5 @@ Projektin koodi ja dokumentointi toteutetaan suomeksi.
 
 ## Lähteet
 
-[Wikipedia - Alpha-Beta prining](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)  
+[Wikipedia - Alpha-Beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)  
 [Wikipedia - Minimax](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
